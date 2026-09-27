@@ -1,7 +1,7 @@
 Module module() {
   return module(
     name: "h2.database",
-    version: 1,
+    version: 2,
     binding: jarBinding(
       target: mavenJar(
         group: "com.h2database",
